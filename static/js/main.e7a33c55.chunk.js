@@ -12324,7 +12324,7 @@
               dampening: 0.04,
               rockFactor: 4,
               drag: 0.001,
-              topSpeed: 45,
+              topSpeed: 184,
               rollResistance: 0.06,
               steerInterval: 1,
               slipBase: 0.1,
